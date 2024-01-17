@@ -1,0 +1,23 @@
+---
+title: "CS 532 EC 0.3"
+author: "Kimberley Cossey"
+format: pdf
+editor: visual
+---
+
+## Code
+
+Python string example:
+
+```{python}
+phrase = "Hello, World!"
+edit = phrase.split(",")
+print(edit)
+```
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
